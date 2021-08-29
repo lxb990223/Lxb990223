@@ -72,6 +72,13 @@ input, select, textarea {
 	appearance: none;
 }
 
+/* !!!! */
+/* #header{
+	background-image: url(images/1.jpg);
+	height: 400px;
+	 */
+}
+
 /* Basic */
 
 	@-ms-viewport {
